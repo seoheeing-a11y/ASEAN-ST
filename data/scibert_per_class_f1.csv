@@ -1,0 +1,22 @@
+Field,Precision,Recall,F1,Support
+Dentistry,0.899,0.93,0.914,500
+Mathematics,0.887,0.876,0.881,500
+Veterinary,0.874,0.874,0.874,183
+Chemical Engineering,0.877,0.856,0.866,500
+Energy,0.847,0.864,0.855,500
+Physics and Astronomy,0.841,0.846,0.843,500
+Neuroscience,0.834,0.834,0.834,500
+Earth and Planetary Sciences,0.822,0.842,0.832,500
+Decision Sciences,0.814,0.834,0.824,500
+Immunology and Microbiology,0.818,0.818,0.818,500
+"Pharmacology, Toxicology and Pharmaceutics",0.762,0.812,0.786,500
+Nursing,0.737,0.8,0.767,500
+Health Professions,0.733,0.734,0.733,500
+Computer Science,0.735,0.716,0.725,500
+Materials Science,0.712,0.732,0.722,500
+Chemistry,0.702,0.688,0.695,500
+Environmental Science,0.682,0.678,0.68,500
+Agricultural and Biological Sciences,0.666,0.618,0.641,500
+"Biochemistry, Genetics and Molecular Biology",0.584,0.628,0.605,500
+Engineering,0.624,0.58,0.601,500
+Medicine,0.63,0.544,0.584,500
