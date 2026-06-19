@@ -16,7 +16,7 @@ The policy document corpus is based on the Overton database, which indexes gover
 Processed and aggregated data files used for analysis are included in the data/ folder. Raw OpenAlex and Overton records are not included due to size and database licensing terms; they can be retrieved via the respective APIs using the queries described in the paper (Section 3.1).
 
 ## Structure
-\`\`\`
+```
 
 code/
   1_scibert_finetune_colab.ipynb       # SciBERT fine-tuning on OpenAlex data
@@ -30,4 +30,4 @@ figures/
   figure1_heatmap.png                  # Academic and policy field distribution heatmap
   figure2_radar.png                    # Radar charts
 
-\`\`\`
+```
